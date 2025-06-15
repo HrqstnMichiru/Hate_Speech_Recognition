@@ -8,7 +8,7 @@ This repository contains the code, data preprocessing pipeline, and experiment c
 
 #### Chinese Documentation
 
-For a full explanation of the task, methods, and results in Chinese, please refer to our Chinese README:[中文说明文档](https://github.com/HrqstnMichiru/Hate_Speech_Recognition/README_zh.md)
+For a full explanation of the task, methods, and results in Chinese, please refer to our Chinese README: [中文说明文档](https://github.com/HrqstnMichiru/Hate_Speech_Recognition/blob/master/README_zh.md)
 
 #### Task Overview
 
@@ -42,7 +42,7 @@ Our best-performing model, Qwen3-8B-Base with 2500-step LoRA fine-tuning, achiev
 
 #### Download LoRA Weights
 
-You can download our LoRA fine-tuned adapter weights via the following link:[LoRA Adapter(Baidu Netdisk)](https://pan.baidu.com/s/1Q9ZHNNm9pikmnUE34OJFNQ?pwd=0721)----Password:0721
+You can download our LoRA fine-tuned adapter weights via the following link: [LoRA Adapter(Baidu Netdisk)](https://pan.baidu.com/s/1Q9ZHNNm9pikmnUE34OJFNQ?pwd=0721)----Password:0721
 
 #### Citation & Contact
 
